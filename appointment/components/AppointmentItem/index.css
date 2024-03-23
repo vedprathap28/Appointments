@@ -1,0 +1,36 @@
+.card2 {
+  background-color: #ffffff;
+  width: 80vh;
+  padding-left: 3vh;
+  border-radius: 1vh;
+  border: 1px solid black;
+  display: flex;
+  height: 12vh;
+  padding-top: 1vh;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 2vh;
+}
+
+.heading {
+  font-size: 20px;
+}
+
+.star-image {
+  height: 25px;
+  margin-top: px;
+}
+
+.star-button {
+  background-color: #ffffff;
+  border: 0px;
+}
+
+.delete-img {
+  height: 20px;
+}
+
+.delete-button {
+  background-color: #ffffff;
+  border: 0px;
+}

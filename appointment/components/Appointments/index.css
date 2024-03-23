@@ -1,0 +1,93 @@
+.bg-container {
+  background-image: linear-gradient(to bottom, #fbc7d4, #9796f0);
+  height: 150vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+* {
+  margin: 0;
+}
+
+.card {
+  background-color: #ffffff;
+  height: auto;
+  padding: 5vh;
+  border-radius: 2vh;
+  margin-left: 10vh;
+  margin-right: 10vh;
+  padding-left: 15vh;
+  padding-top: 8vh;
+}
+
+.appointment-form-container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 6vh;
+}
+.input {
+  margin-top: 1vh;
+  width: 50vh;
+  height: 6vh;
+  padding-left: 1vh;
+
+  border: 1.2px solid #171f46;
+  border-radius: 1vh;
+  margin-bottom: 3vh;
+}
+.label-title {
+  color: #b5b7c4;
+  font-size: 12px;
+}
+.button {
+  background-color: #8b5cf6;
+  border: 0px;
+  width: 40px;
+  color: #ffffff;
+  height: 30px;
+  border-radius: 1vh;
+}
+.image {
+  height: 40vh;
+  margin-right: 30vh;
+}
+.flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.hr {
+  margin-top: 5vh;
+  color: #b5b7c4;
+  padding: 0.5px;
+  background-color: #b5b7c4;
+}
+
+.head {
+  margin-bottom: 20px;
+}
+
+.button2 {
+  margin-top: 3vh;
+  margin-right: 3vh;
+  background-color: #ffffff;
+  color: #8b5cf6;
+  border: 1px solid #8b5cf6;
+  border-radius: 2vh;
+  height: 30px;
+  width: 60px;
+}
+
+.us {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.apointmentss-contianer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
